@@ -5,6 +5,8 @@ It's ubuntu based cloud9 ide. To run
 $ docker run -td  -p <local-port>:8182 techtaste/dock-c9
 ```
 
+open : http://localhost:8182/ide.html
+
 ### Example
 ```
 $ docker run -td  -p 8182:8182 techtaste/dock-c9
