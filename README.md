@@ -7,6 +7,8 @@ $ docker run -td  -p <local-port>:8182 techtaste/dock-c9
 
 open : http://localhost:8182/ide.html
 
+![](dock-c9.png)
+
 ### Example
 ```
 $ docker run -td  -p 8182:8182 techtaste/dock-c9
