@@ -1,5 +1,5 @@
 # docker for cloud9 ide
-It's unbuntu based cloud9 ide. To run
+It's ubuntu based cloud9 ide. To run
 
 ```bash
 $ docker run -td  -p <local-port>:8182 dock-c9:1
