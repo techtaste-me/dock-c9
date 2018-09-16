@@ -7,7 +7,7 @@ $ docker run -td  -p <local-port>:8182 techtaste/dock-c9
 
 ### Example
 ```
-$ docker run -td  -p 8182:8182 techtaste/dock-c9:1
+$ docker run -td  -p 8182:8182 techtaste/dock-c9
 ```
 <br/>
 
